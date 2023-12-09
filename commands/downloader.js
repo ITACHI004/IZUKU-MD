@@ -37,7 +37,7 @@ cmd({
             pattern: "tts",
             desc: "text to speech.",
             category: "downloader",
-            filename: __filename,
+            filename: ___𝙸𝚃𝚊𝙲𝙷𝙸__🪬,
             use: '<Hii,this is izuku>',
         },
         async(Void, citel, text) => {
